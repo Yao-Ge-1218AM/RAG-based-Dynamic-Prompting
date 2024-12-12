@@ -1,0 +1,278 @@
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O I-Clinical_Impacts O O O O O O O
+O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O I-Clinical_Impacts O O O O
+O O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O
+O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O I-Social_Impacts I-Social_Impacts I-Social_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O I-Clinical_Impacts O O O O O O O O O O
+O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O I-Clinical_Impacts O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O I-Clinical_Impacts O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O I-Social_Impacts I-Social_Impacts I-Social_Impacts O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O
+O O O O O O O O O I-Clinical_Impacts O O
+O O I-Clinical_Impacts I-Clinical_Impacts O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O
+O O
+O O O O O O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O
+O O O O O O O O O O O O O I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+O O O O O O I-Social_Impacts I-Social_Impacts O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O O O O O O
+O O O O O O O O O O O O O
+O I-Clinical_Impacts O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O I-Clinical_Impacts O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O I-Clinical_Impacts O O O O O O O O O O O
+O O O O O O O O O O O O O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O I-Clinical_Impacts O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O I-Clinical_Impacts O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O
+O O O O O I-Clinical_Impacts I-Clinical_Impacts O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O
+O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O
+O O O O O O
+O O O O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts O
+O O O O O
+O O O O O I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+O O
+O O O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O
+O O O O O O O O O O O O O O O I-Clinical_Impacts O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O
+O O O I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O I-Clinical_Impacts O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O
+O O O O O O O O I-Social_Impacts I-Social_Impacts I-Social_Impacts O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+O O O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts O
+O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts
+O O O O O I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O
+O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O
+O O O O O I-Clinical_Impacts O O O O
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts
+O O O O O O O O O O O O I-Social_Impacts O O O O O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O I-Clinical_Impacts O O O O
+O O O I-Clinical_Impacts O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O I-Social_Impacts I-Social_Impacts I-Social_Impacts O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts I-Social_Impacts
+I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts
+O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O
+O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O O O I-Clinical_Impacts O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O I-Clinical_Impacts I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O I-Clinical_Impacts I-Clinical_Impacts I-Clinical_Impacts O O O O O
+O O O O O O O O I-Clinical_Impacts O O O O O O O O I-Clinical_Impacts O O O O O O O O O O O O O O O O O O O
+O O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O
+O O O O
+O O O O O O O O O O O O O
+O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O I-Clinical_Impacts O O
+O O O O O O O O O O O O O
+O O O O O O
+O O O O O O O O O O O O O O O O O
