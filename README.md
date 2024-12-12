@@ -28,6 +28,12 @@ The repository includes an example using the Reddit Impacts dataset, which focus
     
    **Evaluation/:** golden set of Reddit_Impacts dataset and evaluation metrics.
 
+## Quick Start
+
+  **Prepare Dataset:** The dataset used in this project is located in the data/ folder. To ensure compatibility with the retrieval stage, scripts for converting the data into the required format are provided in the preprocessing/ folder.
+
+  **Indexing and Retrieval:** 
+
 
 
     
