@@ -8,21 +8,21 @@ The repository includes an example using the Reddit Impacts dataset, which focus
 
 ## Features
 
-    **Static Prompting:** Includes task-specific static prompts with components like dataset descriptions, entity definitions, and high-frequency instances.
+   **Static Prompting:** Includes task-specific static prompts with components like dataset descriptions, entity definitions, and high-frequency instances.
     
-    **Dynamic Prompting with RAG:** Dynamically retrieves annotated examples based on contextual similarity using retrieval engines (e.g., TF-IDF, SBERT, ColBERT).
+   **Dynamic Prompting with RAG:** Dynamically retrieves annotated examples based on contextual similarity using retrieval engines (e.g., TF-IDF, SBERT, ColBERT).
 
 ## Code Structure
 
-    **Retrieval Engines/:** Includes retrieval engines such as TF-IDF, SBERT, DPR, LSA and ColBERT.
+   **Retrieval Engines/:** Includes retrieval engines such as TF-IDF, SBERT, DPR, LSA and ColBERT.
     
-    **data/:** Example dataset (Reddit_Impacts) and preprocessed files.
+   **data/:** Example dataset (Reddit_Impacts) and preprocessed files.
     
-    **preprocessing/:** preprocessing codes for futher used to retrieve similar sentences.
+   **preprocessing/:** preprocessing codes for futher used to retrieve similar sentences.
     
-    **LLMs/:**
+   **LLMs/:**
     
-    **Evaluation/:** golden set of Reddit_Impacts dataset and evaluation metrics.
+   **Evaluation/:** golden set of Reddit_Impacts dataset and evaluation metrics.
 
 
 
