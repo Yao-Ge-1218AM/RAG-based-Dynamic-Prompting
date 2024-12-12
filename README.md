@@ -34,8 +34,8 @@ The repository includes an example using the Reddit Impacts dataset, which focus
 
   **Indexing and Retrieval:** 
   
-    1. The file RAG_for_Reddit_Impacts_Dataset.ipynb provides code for performing retrieval using SBERT, TF-IDF, LSA, and DPR.
-    2. The file ColBERT_for_Reddit_Impacts_Dataset.ipynb contains code specifically for retrieval using ColBERT.
+    1. The file <span style="color:red">RAG_for_Reddit_Impacts_Dataset.ipynb</span> provides code for performing retrieval using SBERT, TF-IDF, LSA, and DPR.
+    2. The file **ColBERT_for_Reddit_Impacts_Dataset.ipynb** contains code specifically for retrieval using ColBERT.
   
   **Dynamic Prompting:** Use the scripts in LLMs/ to access GPT-4 and Llama 3 for predictions.
 
